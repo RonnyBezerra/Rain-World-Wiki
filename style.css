@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Alice", serif;
+}
+
+body {
+    background-image: url(./assets/Survivor\ Hunting.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(6px);
+    padding-block: 4.8rem;
+}
+
+div {
+    background: rgba(74, 4, 78, 0.4);
+    width: 1600px;
+}
+
+img {
+    width: 100%;
+}
+
