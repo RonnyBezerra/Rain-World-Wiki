@@ -13,12 +13,72 @@ body {
     padding-block: 4.8rem;
 }
 
+p {
+    color: #FFF;
+    font-size: 0.8rem;
+}
+
+h1 {
+    color: #FFF;
+    margin-bottom: 0.8rem;
+    font-weight: 800;
+    font-size: 1.8rem;
+}
+
+h2 {
+    color: #FFF;
+    margin-bottom: 0.5rem;
+    font-weight: 100;
+    font-size: 1.6rem;
+}
+
+h3 {
+    color: #FFF;
+    margin-bottom: 0.5rem;
+    font-weight: 100;
+    font-size: 1.3rem;
+}
+
+ol, ul {
+    color: #FFF;
+    font-weight: 100;
+    font-size: 0.8rem;
+}
+
 div {
-    background: rgba(74, 4, 78, 0.4);
+    background: rgba(25, 0, 31, 0.9);
     width: 1600px;
+    border-radius: 1.5rem;
+    max-width: 75rem;
+    padding: 2rem;
+}
+
+section {
+    padding-inline: 2.4rem;
 }
 
 img {
-    width: 100%;
+    width: 50%;
+    margin-bottom: 2.4rem;
 }
 
+main {
+    max-width: 80rem;
+    margin-inline: auto;
+    padding: 2.4rem;
+}
+
+img.Karma {
+    width: 10%;
+    padding-top: 0.8rem;
+}
+
+img.RequisitoChuva {
+    width: 25%;
+    padding-top: 0.8rem;
+}
+
+img.Chuva {
+    width: 20%;
+    padding-top: 0.8rem;
+}
